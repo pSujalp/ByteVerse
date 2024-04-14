@@ -18,6 +18,8 @@
 
 # For testing locally you need to go to HTML2 folder and open terminal from there 
 
+## PLEASE USE DOWNLOAD FROM ANOTHER BRANCH `HTML_developmet_build` WHICH ONLY CONTAINS WEBGL_DEV_BUILD 
+
 use `python -m http.server` in your terminal.
 
 then click on this [Click here](http://localhost:8000)
@@ -25,6 +27,9 @@ then click on this [Click here](http://localhost:8000)
 # My Game is on Itch.io!!! GO and Play!!!!!
 
 Play My game on [Itch.io](https://psujalp.itch.io/island)
+
+
+
 
 
 
