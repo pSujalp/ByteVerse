@@ -22,6 +22,10 @@ use `python -m http.server` in your terminal.
 
 then click on this [Click here](http://localhost:8000)
 
+# My Game is on Itch.io!!! GO and Play!!!!!
+
+Play My game on [Itch.io](https://psujalp.itch.io/island)
+
 
 
 
