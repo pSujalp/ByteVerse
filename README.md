@@ -4,6 +4,13 @@
   ## Group Leader- Sujal Pullagura 
   ## Group member -Avinash Kishore 
 
+  # Installation
+
+  - Just go to respective branch of your OS(LINUX,MAC,WINDOWS)
+
+  - `<> Code` and download it as ZIP
+    
+
 
 ![CWpkMT](https://github.com/pSujalp/ByteVerse/assets/108971732/7e0c06a2-6817-4f14-ab84-a5bbba4d7537)
 
