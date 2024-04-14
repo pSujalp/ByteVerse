@@ -2,7 +2,7 @@
 # 2.5D Game
   
   ## Group Leader- Sujal Pullagura 
-  ## Group member -Avinash Kishore 
+  #### Group member -Avinash Kishore 
 
   ### NOTE
   - There is a problem in  cursor due to texture compression.It might be very transparent.So adjust with it.
