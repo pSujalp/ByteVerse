@@ -2,7 +2,7 @@
 # 2.5D Game
   
   ## Group Leader- Sujal Pullagura 
-  ## Ground member -Avinash Kishore 
+  ## Group member -Avinash Kishore 
 
 
 ![CWpkMT](https://github.com/pSujalp/ByteVerse/assets/108971732/7e0c06a2-6817-4f14-ab84-a5bbba4d7537)
