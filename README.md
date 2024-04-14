@@ -16,4 +16,14 @@
 
 ![GITHUBB](https://github.com/pSujalp/ByteVerse/assets/108971732/2f26aa74-0b08-43a7-8641-0b297e9343be)
 
+# For testing locally you need to go to HTML2 folder and open terminal from there 
+
+use `python -m http.server` in your terminal.
+
+then click on this [Click here](http://localhost:8000)
+
+
+
+
+
 
