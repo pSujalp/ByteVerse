@@ -51,6 +51,11 @@ then click on this [Click here](http://localhost:8000)
 
 Play My game on [Itch.io](https://psujalp.itch.io/island)
 
+**NOTE** 
+---
+
+###### Assets are used from non-commerical packages and some of them were owned by the group leader
+
 
 
 
