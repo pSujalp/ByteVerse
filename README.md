@@ -4,6 +4,10 @@
   ## Group Leader- Sujal Pullagura 
   ## Group member -Avinash Kishore 
 
+  ### NOTE
+  - There is a problem in  cursor due to texture compression.It might be very transparent.So adjust with it.
+  #### GameClip----> [GAMEPLAY](https://youtu.be/SzG7gCH3qLg)
+
   # Installation
 
   - Just go to respective branch of your OS(LINUX,MAC,WINDOWS)
