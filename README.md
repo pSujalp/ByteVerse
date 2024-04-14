@@ -13,4 +13,3 @@
 
 ![Byteverse1](https://github.com/pSujalp/ByteVerse/assets/108971732/4cd41cbe-d638-4cde-a9d1-f9ea14ae42f1)
 
-//![clideo_editor_33ab772ca1a64dfda2b57bf7cbe13c09](https://github.com/pSujalp/ByteVerse/assets/108971732/a5e36989-6bd0-425e-9039-3cfef9fb8a91)
