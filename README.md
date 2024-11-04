@@ -1,7 +1,7 @@
 # ByteVerse Hackathon
 # 2.5D Game
   
-  ## Group Leader- Sujal Pullagura 
+  ## Group Leader- Sujal P 
   #### Group member -Avinash Kishore 
 
   ### NOTE
